@@ -1,0 +1,768 @@
+{
+  "by_code": {
+    "ach": "Acholi",
+    "af": "Afrikaans",
+    "sq": "Albanian",
+    "ar": "Arabic",
+    "an": "Aragonese",
+    "hy-AM": "Armenian",
+    "ast": "Asturian",
+    "az": "Azerbaijani",
+    "eu": "Basque",
+    "be": "Belarusian",
+    "bn": "Bengali",
+    "bs": "Bosnian",
+    "br": "Breton",
+    "bg": "Bulgarian",
+    "my": "Burmese",
+    "ca": "Catalan",
+    "ca-valencia": "Catalan (Valencian)",
+    "zh-CN": "Chinese (Simplified)",
+    "zh-TW": "Chinese (Traditional)",
+    "hr": "Croatian",
+    "cs": "Czech",
+    "da": "Danish",
+    "nl": "Dutch",
+    "en-GB": "English (British)",
+    "en-CA": "English (Canadian)",
+    "en-US": "English (US)",
+    "eo": "Esperanto",
+    "et": "Estonian",
+    "fi": "Finnish",
+    "fr": "French",
+    "fy-NL": "Frisian",
+    "ff": "Fulah",
+    "gd": "Gaelic (Scotland)",
+    "gl": "Galician",
+    "ka": "Georgian",
+    "de": "German",
+    "el": "Greek",
+    "gn": "Guarani (Paraguay)",
+    "gu-IN": "Gujarati (India)",
+    "he": "Hebrew",
+    "hi-IN": "Hindi (India)",
+    "hu": "Hungarian",
+    "is": "Icelandic",
+    "id": "Indonesian",
+    "ia": "Interlingua",
+    "ga-IE": "Irish",
+    "it": "Italian",
+    "ja": "Japanese",
+    "kab": "Kabyle",
+    "kn": "Kannada",
+    "cak": "Kaqchikel",
+    "kk": "Kazakh",
+    "km": "Khmer",
+    "ko": "Korean",
+    "lv": "Latvian",
+    "lij": "Ligurian",
+    "lt": "Lithuanian",
+    "dsb": "Lower Sorbian",
+    "mk": "Macedonian",
+    "ms": "Malay",
+    "mr": "Marathi",
+    "ne-NP": "Nepali",
+    "nb-NO": "Norwegian (Bokm\u00e5l)",
+    "nn-NO": "Norwegian (Nynorsk)",
+    "oc": "Occitan (Lengadocian)",
+    "fa": "Persian",
+    "pl": "Polish",
+    "pt-BR": "Portuguese (Brazilian)",
+    "pt-PT": "Portuguese (Portugal)",
+    "pa-IN": "Punjabi (India)",
+    "ro": "Romanian",
+    "rm": "Romansh",
+    "ru": "Russian",
+    "sr": "Serbian",
+    "si": "Sinhala",
+    "sk": "Slovak",
+    "sl": "Slovenian",
+    "son": "Songhai",
+    "es-AR": "Spanish (Argentina)",
+    "es-CL": "Spanish (Chile)",
+    "es-MX": "Spanish (Mexico)",
+    "es-ES": "Spanish (Spain)",
+    "sv-SE": "Swedish",
+    "tl": "Tagalog",
+    "ta": "Tamil",
+    "te": "Telugu",
+    "th": "Thai",
+    "trs": "Triqui",
+    "tr": "Turkish",
+    "uk": "Ukrainian",
+    "hsb": "Upper Sorbian",
+    "ur": "Urdu",
+    "uz": "Uzbek",
+    "vi": "Vietnamese",
+    "cy": "Welsh",
+    "xh": "Xhosa"
+  },
+  "by_name": {
+    "Acholi": {
+      "Personal": "Pa ngat moni",
+      "Work": "Tic",
+      "Banking": "Beng",
+      "Shopping": "Wil",
+      "None": "Lamak Jami pee"
+    },
+    "Afrikaans": {
+      "Personal": "Persoonlik",
+      "Work": "Werk",
+      "Banking": "Bankdienste",
+      "Shopping": "Inkopies",
+      "None": "Geen konteks"
+    },
+    "Albanian": {
+      "Personal": "Personale",
+      "Work": "Pune",
+      "Banking": "Bankash",
+      "Shopping": "Blerjesh",
+      "None": "Pa Kontejner"
+    },
+    "Arabic": {
+      "Personal": "\u0634\u062e\u0635\u064a",
+      "Work": "\u0639\u0645\u0644",
+      "Banking": "\u0635\u064a\u0631\u0641\u0629",
+      "Shopping": "\u062a\u0633\u0648\u0642",
+      "None": "\u063a\u064a\u0631 \u062d\u0627\u0648\u0650"
+    },
+    "Aragonese": {
+      "Personal": "Personal",
+      "Work": "Treballo",
+      "Banking": "Banca",
+      "Shopping": "Mercau",
+      "None": "Garra contenedor"
+    },
+    "Armenian": {
+      "Personal": "\u0531\u0576\u0571\u0576\u0561\u056f\u0561\u0576",
+      "Work": "\u0531\u0577\u056d\u0561\u057f\u0561\u0576\u0584\u0561\u0575\u056b\u0576",
+      "Banking": "\u0532\u0561\u0576\u056f\u0561\u0575\u056b\u0576",
+      "Shopping": "\u0531\u057c\u0587\u057f\u0578\u0582\u0580",
+      "None": "\u0549\u056f\u0561 \u057a\u0561\u0580\u0578\u0582\u0576\u0561\u056f"
+    },
+    "Asturian": {
+      "Personal": "Personal",
+      "Work": "Work",
+      "Banking": "Banking",
+      "Shopping": "Shopping",
+      "None": "No Container"
+    },
+    "Azerbaijani": {
+      "Personal": "\u015e\u0259xsi",
+      "Work": "\u0130\u015f",
+      "Banking": "Bank i\u015fi",
+      "Shopping": "Bazarl\u0131q",
+      "None": "Konteyner yoxdur"
+    },
+    "Basque": {
+      "Personal": "Pertsonala",
+      "Work": "Lanekoa",
+      "Banking": "Banka",
+      "Shopping": "Erosketak",
+      "None": "Edukiontzirik ez"
+    },
+    "Belarusian": {
+      "Personal": "\u0410\u0441\u0430\u0431\u0456\u0441\u0442\u044b",
+      "Work": "\u041f\u0440\u0430\u0446\u0430",
+      "Banking": "\u0411\u0430\u043d\u043a\u0456\u043d\u0433",
+      "Shopping": "\u041f\u0430\u043a\u0443\u043f\u043a\u0456",
+      "None": "\u041d\u0435 \u045e \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b"
+    },
+    "Bengali": {
+      "Personal": "\u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf\u0997\u09a4",
+      "Work": "\u0995\u09be\u099c",
+      "Banking": "\u09ac\u09cd\u09af\u09be\u0982\u0995\u09bf\u0982",
+      "Shopping": "\u0995\u09c7\u09a8\u09be\u0995\u09be\u099f\u09be",
+      "None": "\u0995\u09a8\u099f\u09c7\u09a8\u09be\u09b0 \u09a8\u09c7\u0987"
+    },
+    "Bosnian": {
+      "Personal": "Li\u010dni",
+      "Work": "Poslovni",
+      "Banking": "Bankarstvo",
+      "Shopping": "Kupovina",
+      "None": "Bez Containera"
+    },
+    "Breton": {
+      "Personal": "Personel",
+      "Work": "Labour",
+      "Banking": "Bank",
+      "Shopping": "Prenadenno\u00f9",
+      "None": "Endalc'her ebet"
+    },
+    "Bulgarian": {
+      "Personal": "\u041b\u0438\u0447\u0435\u043d",
+      "Work": "\u0421\u043b\u0443\u0436\u0435\u0431\u0435\u043d",
+      "Banking": "\u0411\u0430\u043d\u043a\u0438\u0440\u0430\u043d\u0435",
+      "Shopping": "\u041f\u0430\u0437\u0430\u0440\u0443\u0432\u0430\u043d\u0435",
+      "None": "\u041d\u0435\u0438\u0437\u043e\u043b\u0438\u0440\u0430\u043d"
+    },
+    "Burmese": {
+      "Personal": "\u1000\u102d\u102f\u101a\u103a\u101b\u1031\u1038\u1000\u102d\u102f\u101a\u103a\u1010\u102c",
+      "Work": "\u1021\u101c\u102f\u1015\u103a",
+      "Banking": "\u1018\u100f\u103a\u101c\u102f\u1015\u103a\u1004\u1014\u103a\u1038\u1006\u102d\u102f\u1004\u103a\u101b\u102c",
+      "Shopping": "\u1005\u103b\u1031\u1038\u101d\u101a\u103a\u1001\u103c\u1004\u103a\u1038",
+      "None": "\u1000\u103d\u1014\u103a\u1010\u102d\u1014\u103a\u1014\u102c \u1019\u101b\u103e\u102d\u1015\u102b"
+    },
+    "Catalan": {
+      "Personal": "Personal",
+      "Work": "Feina",
+      "Banking": "Banca",
+      "Shopping": "Compres",
+      "None": "Cap contenidor"
+    },
+    "Catalan (Valencian)": {
+      "Personal": "Personal",
+      "Work": "Faena",
+      "Banking": "Banca",
+      "Shopping": "Compres",
+      "None": "Cap contenidor"
+    },
+    "Chinese (Simplified)": {
+      "Personal": "\u79c1\u4eba",
+      "Work": "\u529e\u516c",
+      "Banking": "\u91d1\u878d",
+      "Shopping": "\u8d2d\u7269",
+      "None": "\u65e0\u8eab\u4efd"
+    },
+    "Chinese (Traditional)": {
+      "Personal": "\u79c1\u4eba",
+      "Work": "\u5546\u52d9",
+      "Banking": "\u91d1\u878d",
+      "Shopping": "\u8cfc\u7269",
+      "None": "\u7121\u5bb9\u5668"
+    },
+    "Croatian": {
+      "Personal": "Osobno",
+      "Work": "Posao",
+      "Banking": "Bankarstvo",
+      "Shopping": "Kupovina",
+      "None": "Bez kontejnera"
+    },
+    "Czech": {
+      "Personal": "Osobn\u00ed",
+      "Work": "Pracovn\u00ed",
+      "Banking": "Bankovnictv\u00ed",
+      "Shopping": "Nakupov\u00e1n\u00ed",
+      "None": "\u017d\u00e1dn\u00fd kontejner"
+    },
+    "Danish": {
+      "Personal": "Personlig",
+      "Work": "Arbejde",
+      "Banking": "Bank",
+      "Shopping": "Shopping",
+      "None": "Ingen kontekst"
+    },
+    "Dutch": {
+      "Personal": "Persoonlijk",
+      "Work": "Werk",
+      "Banking": "Bankieren",
+      "Shopping": "Winkelen",
+      "None": "Geen container"
+    },
+    "English (British)": {
+      "Personal": "Personal",
+      "Work": "Work",
+      "Banking": "Banking",
+      "Shopping": "Shopping",
+      "None": "No Container"
+    },
+    "English (Canadian)": {
+      "Personal": "Personal",
+      "Work": "Work",
+      "Banking": "Banking",
+      "Shopping": "Shopping",
+      "None": "No Container"
+    },
+    "English (US)": {
+      "Personal": "Personal",
+      "Work": "Work",
+      "Banking": "Banking",
+      "Shopping": "Shopping",
+      "None": "No Container"
+    },
+    "Esperanto": {
+      "Personal": "Persona",
+      "Work": "Laboro",
+      "Banking": "Banka",
+      "Shopping": "A\u0109etumado",
+      "None": "Neniu ingo"
+    },
+    "Estonian": {
+      "Personal": "Isiklik",
+      "Work": "T\u00f6\u00f6",
+      "Banking": "Pangandus",
+      "Shopping": "Poodlemine",
+      "None": "Konteinerita"
+    },
+    "Finnish": {
+      "Personal": "Omat",
+      "Work": "Ty\u00f6",
+      "Banking": "Raha",
+      "Shopping": "Kaupat",
+      "None": "Erist\u00e4m\u00e4t\u00f6n"
+    },
+    "French": {
+      "Personal": "Personnel",
+      "Work": "Professionnel",
+      "Banking": "Bancaire",
+      "Shopping": "Achats en ligne",
+      "None": "Sans contexte"
+    },
+    "Frisian": {
+      "Personal": "Persoanlik",
+      "Work": "Wurk",
+      "Banking": "Bankiere",
+      "Shopping": "Winkelje",
+      "None": "Gjin kontener"
+    },
+    "Fulah": {
+      "Personal": "Keerii\u0257o",
+      "Work": "Gollirdu",
+      "Banking": "Bankayru",
+      "Shopping": "Coodayru",
+      "None": "Alaa Mooftir\u0257e"
+    },
+    "Gaelic (Scotland)": {
+      "Personal": "Pearsanta",
+      "Work": "Obair",
+      "Banking": "Bancaireachd",
+      "Shopping": "Seopadaireachd",
+      "None": "Gun soitheach"
+    },
+    "Galician": {
+      "Personal": "Persoal",
+      "Work": "Traballo",
+      "Banking": "Banca",
+      "Shopping": "Compras",
+      "None": "Sen contedor"
+    },
+    "Georgian": {
+      "Personal": "\u10de\u10d8\u10e0\u10d0\u10d3\u10d8",
+      "Work": "\u10e1\u10d0\u10db\u10e3\u10e8\u10d0\u10dd",
+      "Banking": "\u10e1\u10d0\u10d1\u10d0\u10dc\u10d9\u10dd",
+      "Shopping": "\u10e1\u10d0\u10d5\u10d0\u10ed\u10e0\u10dd",
+      "None": "\u10e3\u10e1\u10d0\u10d7\u10d0\u10d5\u10e1\u10dd\u10d3"
+    },
+    "German": {
+      "Personal": "Freizeit",
+      "Work": "Arbeit",
+      "Banking": "Banking",
+      "Shopping": "Einkaufen",
+      "None": "Keine Umgebung"
+    },
+    "Greek": {
+      "Personal": "\u03a0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03ac",
+      "Work": "\u0395\u03c1\u03b3\u03b1\u03c3\u03af\u03b1",
+      "Banking": "\u03a4\u03c1\u03b1\u03c0\u03b5\u03b6\u03b9\u03ba\u03ae",
+      "Shopping": "\u0391\u03b3\u03bf\u03c1\u03ad\u03c2",
+      "None": "\u039a\u03b1\u03bc\u03af\u03b1 \u03b8\u03b5\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03af\u03b1"
+    },
+    "Guarani (Paraguay)": {
+      "Personal": "Mba\u2019et\u00e9va",
+      "Work": "Mba\u2019eapo",
+      "Banking": "Virurendagua",
+      "Shopping": "\u00d1emuhaguasu",
+      "None": "\u00d1ongatuha\u2019\u1ef9re"
+    },
+    "Gujarati (India)": {
+      "Personal": "\u0a96\u0abe\u0aa8\u0a97\u0ac0",
+      "Work": "\u0a95\u0abe\u0aae",
+      "Banking": "\u0aac\u0ac7\u0aa8\u0acd\u0a95\u0abf\u0a82\u0a97",
+      "Shopping": "\u0a96\u0ab0\u0ac0\u0aa6\u0aa6\u0abe\u0ab0\u0ac0",
+      "None": "\u0a95\u0acb\u0a88 \u0a95\u0aa8\u0acd\u0a9f\u0ac7\u0a88\u0aa8\u0ab0 \u0aa8\u0aa5\u0ac0"
+    },
+    "Hebrew": {
+      "Personal": "\u05e4\u05e8\u05d8\u05d9",
+      "Work": "\u05e2\u05d1\u05d5\u05d3\u05d4",
+      "Banking": "\u05d1\u05e0\u05e7\u05d0\u05d5\u05ea",
+      "Shopping": "\u05e7\u05e0\u05d9\u05d5\u05ea",
+      "None": "\u05dc\u05dc\u05d0 \u05de\u05d2\u05d9\u05e8\u05d4"
+    },
+    "Hindi (India)": {
+      "Personal": "\u0928\u093f\u091c\u0940",
+      "Work": "\u0915\u093e\u0930\u094d\u092f",
+      "Banking": "\u092c\u0948\u0902\u0915\u093f\u0902\u0917",
+      "Shopping": "\u0916\u0930\u0940\u0926\u093e\u0930\u0940",
+      "None": "\u0915\u094b\u0908 \u092a\u093e\u0924\u094d\u0930 \u0928\u0939\u0940"
+    },
+    "Hungarian": {
+      "Personal": "Szem\u00e9lyes",
+      "Work": "Munkahelyi",
+      "Banking": "Bankol\u00e1s",
+      "Shopping": "V\u00e1s\u00e1rl\u00e1s",
+      "None": "Nincs kont\u00e9ner"
+    },
+    "Icelandic": {
+      "Personal": "Pers\u00f3nulegt",
+      "Work": "Vinna",
+      "Banking": "Netbanki",
+      "Shopping": "Versla",
+      "None": "Ekkert innihald"
+    },
+    "Indonesian": {
+      "Personal": "Pribadi",
+      "Work": "Kantor",
+      "Banking": "Perbankan",
+      "Shopping": "Belanja",
+      "None": "Tanpa Kontainer"
+    },
+    "Interlingua": {
+      "Personal": "Personal",
+      "Work": "Professional",
+      "Banking": "Bancari",
+      "Shopping": "Compras",
+      "None": "Sin contexto"
+    },
+    "Irish": {
+      "Personal": "Pearsanta",
+      "Work": "Obair",
+      "Banking": "Bainc\u00e9ireacht",
+      "Shopping": "Siopad\u00f3ireacht",
+      "None": "Gan Coime\u00e1d\u00e1n"
+    },
+    "Italian": {
+      "Personal": "Personale",
+      "Work": "Lavoro",
+      "Banking": "Banca",
+      "Shopping": "Shopping",
+      "None": "Nessun contenitore"
+    },
+    "Japanese": {},
+    "Kabyle": {
+      "Personal": "Udmawan",
+      "Work": "Amahil",
+      "Banking": "Banking",
+      "Shopping": "Ti\u0263in",
+      "None": "Ulac amagbar"
+    },
+    "Kannada": {
+      "Personal": "\u0cb5\u0cc8\u0caf\u0c95\u0ccd\u0ca4\u0cbf\u0c95",
+      "Work": "\u0c95\u0cc6\u0cb2\u0cb8",
+      "Banking": "\u0cac\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0cbf\u0c82\u0c97\u0ccd",
+      "Shopping": "\u0cb6\u0cbe\u0caa\u0cbf\u0c82\u0c97\u0ccd",
+      "None": "\u0c95\u0c82\u0c9f\u0cc8\u0ca8\u0cb0\u0ccd \u0cb2\u0cad\u0ccd\u0caf\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2"
+    },
+    "Kaqchikel": {
+      "Personal": "Ichinan",
+      "Work": "Samaj",
+      "Banking": "Pwaqb'\u00e4l",
+      "Shopping": "Loq'oj",
+      "None": "Man\u00e4q ajk'way\u00f6l"
+    },
+    "Kazakh": {
+      "Personal": "\u0416\u0435\u043a\u0435",
+      "Work": "\u0416\u04b1\u043c\u044b\u0441",
+      "Banking": "\u0411\u0430\u043d\u043a\u0438\u043d\u0433",
+      "Shopping": "\u0428\u043e\u043f\u043f\u0438\u043d\u0433",
+      "None": "\u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u0435\u043c\u0435\u0441"
+    },
+    "Khmer": {
+      "Personal": "\u1795\u17d2\u1791\u17b6\u179b\u17cb\u200b\u1781\u17d2\u179b\u17bd\u1793",
+      "Work": "\u1780\u17b6\u179a\u1784\u17b6\u179a\u200b",
+      "Banking": "\u179f\u17c1\u179c\u17b6\u200b\u1792\u1793\u17b6\u1782\u17b6\u179a\u200b",
+      "Shopping": "\u1780\u17b6\u179a\u200b\u1791\u17b7\u1789",
+      "None": "\u1782\u17d2\u1798\u17b6\u1793\u200b\u17a7\u1794\u1780\u179a\u178e\u17cd\u200b\u1795\u17d2\u1791\u17bb\u1780"
+    },
+    "Korean": {
+      "Personal": "\uac1c\uc778",
+      "Work": "\uc5c5\ubb34",
+      "Banking": "\uc740\ud589",
+      "Shopping": "\uc1fc\ud551",
+      "None": "\ucee8\ud14c\uc774\ub108 \uc5c6\uc74c"
+    },
+    "Latvian": {
+      "Personal": "Person\u012bgais",
+      "Work": "Darba",
+      "Banking": "Finan\u0161u",
+      "Shopping": "Iepirk\u0161an\u0101s",
+      "None": "Nav konteinera"
+    },
+    "Ligurian": {
+      "Personal": "Person\u00e2",
+      "Work": "Travaggio",
+      "Banking": "Banca",
+      "Shopping": "Neg\u00f2\u00e7\u00e7i",
+      "None": "Nisciun Contegnit\u00f4"
+    },
+    "Lithuanian": {
+      "Personal": "Asmeninis",
+      "Work": "Darbas",
+      "Banking": "Bankininkyst\u0117",
+      "Shopping": "Pirkiniai",
+      "None": "Be sud\u0117tin\u0117s kortel\u0117s"
+    },
+    "Lower Sorbian": {
+      "Personal": "W\u00f3sobinski",
+      "Work": "S\u0142u\u017ebny telefon",
+      "Banking": "Bankownistwo",
+      "Shopping": "Nakupowanje",
+      "None": "\u017deden kontejner"
+    },
+    "Macedonian": {
+      "Personal": "\u041b\u0438\u0447\u043d\u043e",
+      "None": "\u041d\u0435\u043c\u0430 \u043a\u043e\u043d\u0442\u0435\u0458\u043d\u0435\u0440",
+      "Work": "Work",
+      "Banking": "Banking",
+      "Shopping": "Shopping"
+    },
+    "Malay": {
+      "Personal": "Peribadi",
+      "Work": "Kerja",
+      "Banking": "Perbankan",
+      "Shopping": "Beli-belah",
+      "None": "Tiada Penyimpan"
+    },
+    "Marathi": {
+      "Personal": "\u0935\u0948\u092f\u0915\u094d\u0924\u093f\u0915",
+      "Work": "\u0915\u093e\u0930\u094d\u092f",
+      "Banking": "\u092c\u0901\u0915\u093f\u0902\u0917",
+      "Shopping": "\u0916\u0930\u0947\u0926\u0940",
+      "None": "\u0915\u0902\u091f\u0947\u0928\u0930 \u0928\u093e\u0939\u0940"
+    },
+    "Nepali": {
+      "Personal": "\u0935\u094d\u092f\u0915\u094d\u0924\u093f\u0917\u0924",
+      "Work": "\u0915\u093e\u092e",
+      "Banking": "\u092c\u0948\u0919\u094d\u0915\u093f\u0919",
+      "Shopping": "\u0915\u093f\u0928\u092e\u0947\u0932",
+      "None": "\u0915\u0941\u0928\u0948 \u0915\u0928\u094d\u091f\u0947\u0928\u0930 \u091b\u0948\u0928"
+    },
+    "Norwegian (Bokm\u00e5l)": {
+      "Personal": "Personlig",
+      "Work": "Arbeid",
+      "Banking": "Bank",
+      "Shopping": "Shopping",
+      "None": "Ingen beholder"
+    },
+    "Norwegian (Nynorsk)": {
+      "Personal": "Personleg",
+      "Work": "Arbeid",
+      "Banking": "Bank",
+      "Shopping": "Shopping",
+      "None": "Ingen behaldar"
+    },
+    "Occitan (Lengadocian)": {
+      "Personal": "Personal",
+      "Work": "Trabalh",
+      "Banking": "Banca",
+      "Shopping": "Crompas",
+      "None": "Pas cap contenidor"
+    },
+    "Persian": {
+      "Personal": "\u0634\u062e\u0635\u06cc",
+      "Work": "\u06a9\u0627\u0631\u06cc",
+      "Banking": "\u0628\u0627\u0646\u06a9\u06cc",
+      "Shopping": "\u062e\u0631\u06cc\u062f",
+      "None": "\u0628\u062f\u0648\u0646 \u0632\u0628\u0627\u0646\u0647 \u062d\u0627\u0645\u0644"
+    },
+    "Polish": {
+      "Personal": "Osobiste",
+      "Work": "Praca",
+      "Banking": "Bankowo\u015b\u0107",
+      "Shopping": "Zakupy",
+      "None": "Bez kontekstu"
+    },
+    "Portuguese (Brazilian)": {
+      "Personal": "Pessoal",
+      "Work": "Trabalho",
+      "Banking": "Financeiro",
+      "Shopping": "Compras",
+      "None": "Sem cont\u00eainer"
+    },
+    "Portuguese (Portugal)": {
+      "Personal": "Pessoal",
+      "Work": "Trabalho",
+      "Banking": "Banc\u00e1rio",
+      "Shopping": "Compras",
+      "None": "Sem contentor"
+    },
+    "Punjabi (India)": {
+      "Personal": "\u0a28\u0a3f\u0a71\u0a1c\u0a40",
+      "Work": "\u0a15\u0a70\u0a2e",
+      "Banking": "\u0a2c\u0a48\u0a02\u0a15\u0a3f\u0a70\u0a17",
+      "Shopping": "\u0a16\u0a30\u0a40\u0a26\u0a26\u0a3e\u0a30\u0a40",
+      "None": "\u0a15\u0a4b\u0a08 \u0a15\u0a28\u0a1f\u0a47\u0a28\u0a30 \u0a28\u0a39\u0a40\u0a02"
+    },
+    "Romanian": {
+      "Personal": "Personale",
+      "Work": "Lucru",
+      "Banking": "Banking",
+      "Shopping": "Cump\u0103r\u0103turi",
+      "None": "F\u0103r\u0103 containere"
+    },
+    "Romansh": {
+      "Personal": "Privat",
+      "Work": "Lavur",
+      "Banking": "Banca",
+      "Shopping": "Cumpras",
+      "None": "Nagin container"
+    },
+    "Russian": {
+      "Personal": "\u041b\u0438\u0447\u043d\u044b\u0439",
+      "Work": "\u0420\u0430\u0431\u043e\u0442\u0430",
+      "Banking": "\u0411\u0430\u043d\u043a\u0438\u043d\u0433",
+      "Shopping": "\u041f\u043e\u043a\u0443\u043f\u043a\u0438",
+      "None": "\u041d\u0435 \u0432 \u043a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440\u0435"
+    },
+    "Serbian": {
+      "Personal": "\u041b\u0438\u0447\u043d\u0438",
+      "Work": "\u041f\u043e\u0441\u043b\u043e\u0432\u043d\u0438",
+      "Banking": "\u041a\u0443\u043f\u043e\u0432\u0438\u043d\u0430",
+      "Shopping": "\u0411\u0430\u043d\u043a\u0430\u0440\u0441\u0442\u0432\u043e",
+      "None": "\u041d\u0435\u043c\u0430 \u043a\u043e\u043d\u0442\u0435\u0458\u043d\u0435\u0440\u0430"
+    },
+    "Sinhala": {
+      "Personal": "\u0db4\u0dd4\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a",
+      "Work": "\u0dc0\u0dd0\u0da9",
+      "Banking": "\u0db6\u0dd0\u0d82\u0d9a\u0dd4\u0d9a\u0dbb\u0dab",
+      "Shopping": "\u0dc3\u0dcf\u0db4\u0dca\u0db4\u0dd4 \u0dba\u0dd1\u0db8",
+      "None": "\u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0d9a\u0dca \u0db1\u0dd0\u0dad"
+    },
+    "Slovak": {
+      "Personal": "Osobn\u00e9",
+      "Work": "Pracovn\u00e9",
+      "Banking": "Bankovn\u00edctvo",
+      "Shopping": "Nakupovanie",
+      "None": "\u017diadny kontajner"
+    },
+    "Slovenian": {
+      "Personal": "Osebno",
+      "Work": "Slu\u017ebeno",
+      "Banking": "Ban\u010dni\u0161tvo",
+      "Shopping": "Nakupovanje",
+      "None": "Brez vsebnika"
+    },
+    "Songhai": {
+      "Personal": "Boralhaali",
+      "Work": "Goy",
+      "Banking": "Banku goy",
+      "Shopping": "Daydayyan",
+      "None": "Sun kul \u0161ii"
+    },
+    "Spanish (Argentina)": {
+      "Personal": "Personal",
+      "Work": "Trabajo",
+      "Banking": "Banco",
+      "Shopping": "Compras",
+      "None": "Sin contenedor"
+    },
+    "Spanish (Chile)": {
+      "Personal": "Personal",
+      "Work": "Trabajo",
+      "Banking": "Banca",
+      "Shopping": "Compras",
+      "None": "Sin contenedor"
+    },
+    "Spanish (Mexico)": {
+      "Personal": "Personal",
+      "Work": "Trabajo",
+      "Banking": "Banca",
+      "Shopping": "Comprar",
+      "None": "Sin contenedor"
+    },
+    "Spanish (Spain)": {
+      "Personal": "Personal",
+      "Work": "Trabajo",
+      "Banking": "Banca",
+      "Shopping": "Compras",
+      "None": "No hay contenedor"
+    },
+    "Swedish": {
+      "Personal": "Personligt",
+      "Work": "Arbete",
+      "Banking": "Bank",
+      "Shopping": "Shopping",
+      "None": "Ingen beh\u00e5llare"
+    },
+    "Tagalog": {
+      "Personal": "Personal",
+      "Work": "Trabaho",
+      "Banking": "Pagbabangko",
+      "Shopping": "Pamimili",
+      "None": "Walang Container"
+    },
+    "Tamil": {
+      "Personal": "\u0ba4\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f",
+      "Work": "\u0baa\u0ba3\u0bbf",
+      "Banking": "\u0bb5\u0b99\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0baf\u0bb2\u0bcd",
+      "Shopping": "\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bb2\u0bcd",
+      "None": "\u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bb2\u0ba9\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8"
+    },
+    "Telugu": {
+      "Personal": "\u0c35\u0c4d\u0c2f\u0c15\u0c4d\u0c24\u0c3f\u0c17\u0c24\u0c02",
+      "Work": "\u0c2a\u0c28\u0c3f",
+      "Banking": "\u0c2c\u0c4d\u0c2f\u0c3e\u0c02\u0c15\u0c3f\u0c02\u0c17\u0c4d",
+      "Shopping": "\u0c37\u0c3e\u0c2a\u0c3f\u0c02\u0c17\u0c4d",
+      "None": "\u0c15\u0c02\u0c1f\u0c46\u0c2f\u0c3f\u0c28\u0c30\u0c41 \u0c32\u0c47\u0c26\u0c41"
+    },
+    "Thai": {
+      "Personal": "\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
+      "Work": "\u0e07\u0e32\u0e19",
+      "Banking": "\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23",
+      "Shopping": "\u0e01\u0e32\u0e23\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e2d\u0e07",
+      "None": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e01\u0e32\u0e23\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25"
+    },
+    "Triqui": {
+      "Personal": "Ri\u00f1a man'\u00e2nt",
+      "Work": "Suun",
+      "Banking": "B\u00e2nku",
+      "Shopping": "Sa girun'",
+      "None": "Nitah contenedor"
+    },
+    "Turkish": {
+      "Personal": "Ki\u015fisel",
+      "Work": "\u0130\u015f",
+      "Banking": "Banka",
+      "Shopping": "Al\u0131\u015fveri\u015f",
+      "None": "Kapsay\u0131c\u0131 yok"
+    },
+    "Ukrainian": {
+      "Personal": "\u041e\u0441\u043e\u0431\u0438\u0441\u0442\u0435",
+      "Work": "\u0420\u043e\u0431\u043e\u0442\u0430",
+      "Banking": "\u0411\u0430\u043d\u043a",
+      "Shopping": "\u041f\u043e\u043a\u0443\u043f\u043a\u0438",
+      "None": "\u0411\u0435\u0437 \u043a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440\u0430"
+    },
+    "Upper Sorbian": {
+      "Personal": "Wosobinski",
+      "Work": "S\u0142u\u017ebny",
+      "Banking": "Bankownistwo",
+      "Shopping": "Nakupowanje",
+      "None": "\u017dadyn kontejner"
+    },
+    "Urdu": {
+      "Personal": "\u0630\u0627\u062a\u06cc",
+      "Work": "\u06a9\u0627\u0645",
+      "Banking": "\u0628\u06cc\u0646\u06a9\u0627\u0631\u06cc",
+      "Shopping": "\u062e\u0631\u06cc\u062f\u0627\u0631\u06cc",
+      "None": "\u06a9\u0648\u0626\u06cc \u062d\u0627\u0645\u0644 \u0646\u06c1\u06cc\u06ba"
+    },
+    "Uzbek": {
+      "Personal": "Shaxsiy",
+      "Work": "Ish",
+      "Banking": "Bank ishi",
+      "Shopping": "Xaridlar",
+      "None": "Konteyner yo\u2018q"
+    },
+    "Vietnamese": {
+      "Personal": "C\u00e1 nh\u00e2n",
+      "Work": "C\u00f4ng vi\u1ec7c",
+      "Banking": "Ng\u00e2n h\u00e0ng",
+      "Shopping": "Mua s\u1eafm",
+      "None": "Kh\u00f4ng ng\u0103n ch\u1ee9a"
+    },
+    "Welsh": {
+      "Personal": "Personol",
+      "Work": "Gwaith",
+      "Banking": "Bancio",
+      "Shopping": "Siopa",
+      "None": "Dim Cynhwysydd"
+    },
+    "Xhosa": {
+      "Personal": "Ezobuqu",
+      "Work": "Umsebenzi",
+      "Banking": "Ukubhankisha",
+      "Shopping": "Ukuthenga",
+      "None": "Ayikho iKhonteyina"
+    }
+  }
+}

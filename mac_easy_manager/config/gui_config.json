@@ -1,0 +1,109 @@
+{
+  "timer": 1000,
+  "color": {
+    "small_text": "grey",
+    "warn": "firebrick"
+  },
+  "font": {
+    "header": "Arial 18 bold",
+    "small_text": "Arial 12",
+    "default_profile": "Arial 14 bold",
+    "normal": "Arial 14"
+  },
+  "grid": {
+    "containers_frame": {
+      "title": { "row": 0, "pady": 5 },
+      "treeview": { "row": 1, "rowspan": 10, "pady": 5 },
+      "scrollbar": {
+        "row": 1,
+        "column": 1,
+        "rowspan": 10,
+        "sticky": "ns",
+        "pady": 5
+      },
+      "move_up": { "row": 4, "column": 2 },
+      "move_down": { "row": 5, "column": 2 },
+      "reset": { "row": 11, "pady": 5 },
+      "restore": { "row": 12, "pady": 5 },
+      "save": { "row": 13, "pady": 5 },
+      "saved": { "row": 14, "pady": 5 }
+    }
+  },
+  "pad": {
+    "x": 5,
+    "y": 5,
+    "main_x": 10,
+    "main_y": 10,
+    "small_icon_x": 5
+  },
+  "text": {
+    "button": {
+      "ignore": "Ignore",
+      "regex": "use RegEx",
+      "ignore_case": "case-insensitive",
+      "select": "Select",
+      "move_up": "▲",
+      "move_down": "▼",
+      "reset_cont": "Reset to original default order",
+      "restore_cont": "Restore default order",
+      "save_default": "Save as default order",
+      "save_options": "Save as default options",
+      "load_options": "Load default options",
+      "delete": "Delete",
+      "add": "Add a new container",
+      "save": "Save",
+      "back": "Back to profile selection"
+    },
+    "profile_select_window": {
+      "header": "Choose the Firefox profile:",
+      "subheader": "Current default profile is in bold.",
+      "ignore_info": "Will ignore any container whose name starts with the given text followed by any number of digits.",
+      "language_select_info_1": "Choose the language of your Firefox browser.",
+      "language_select_info_2": "This will affect the names of the default containers (Personal, Work, Banking, Shopping).",
+      "no_profs": "No profiles found."
+    },
+    "main_window": {
+      "containers": "Containers",
+      "primary_sort": "Primary sorting",
+      "secondary_sort": "Secondary sorting",
+      "tertiary_sort": "Tertiary sorting",
+      "reverse": "reversed",
+      "color": "Color sort order",
+      "icon": "Icon sort order",
+      "cur_cont": "Selected container:",
+      "cur_cont_name": "none",
+      "cur_cont_name_multiple": "multiple",
+      "cur_cont_change_name": "Change name:",
+      "cur_cont_change_name_info": "Press Enter to save.",
+      "cur_cont_change_color": "Change color:",
+      "cur_cont_change_icon": "Change icon:",
+      "saved": "Saved!",
+      "restored": "Restored!",
+      "reset": "Reset!",
+      "loaded": "Loaded!"
+    },
+    "add_popup": {
+      "title": "Add a container...",
+      "name": "Name:",
+      "color": "Color:",
+      "icon": "Icon:",
+      "add": "Add"
+    },
+    "added_warning": {
+      "title": "Warning",
+      "message": "You have added new containers, deleted containers, or made changes to existing ones. Restoring the default order will remove the changes. Do you wish to proceed?"
+    },
+    "save_warning": {
+      "title": "Warning",
+      "message": "You have unsaved changes that will be lost. Do you wish to proceed?"
+    },
+    "save_success": {
+      "title": "Success!",
+      "message": "File saved successfully!"
+    },
+    "no_sort_options": {
+      "title": "Error!",
+      "message": "You haven't saved your sorting options yet!"
+    }
+  }
+}
