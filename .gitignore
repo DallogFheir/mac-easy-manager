@@ -1,4 +1,4 @@
 .vscode
 app.spec
-mac-easy-manager.zip
+*.zip
 __pycache__
