@@ -1,3 +1,9 @@
+### <p align="center">💀 OBITUARY 💀</p>
+
+This is my first project, which I did after 3-4 months of learning Python. The code is garbage. There's still no functionality to sort containers in Firefox, but I don't care anymore.
+
+<br />
+
 # MAC Easy Manager
 
 A manager for Firefox's [Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) on Windows.
@@ -46,6 +52,3 @@ It also works with the [Temporary Containers](https://addons.mozilla.org/en-US/f
 
 ![main-window](screenshots/main-window.gif)
 
-## Future
-
-The project is basically closed and I do not plan to maintain it. I wrote the basic version of it after 3-4 months of learning Python and I know the code is not the best, and terribly organized, but maybe someone will find it useful. I may fix small bugs if there are any. You can fork it freely.
